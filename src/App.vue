@@ -1,5 +1,8 @@
 <template>
-  <Header/>
+    <h1>Employee Data</h1>
+   
+      <Header/>
+
   <Table/>
 </template>
 <script>
@@ -14,5 +17,4 @@
 </script>
 
 <style>
-
 </style>

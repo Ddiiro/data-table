@@ -37,5 +37,8 @@
   <style>
     .header {
         display: flex;
+        width: 90%;
+        margin: auto;
+        justify-content: space-between;
     }
   </style>

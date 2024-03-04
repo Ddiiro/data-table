@@ -159,9 +159,8 @@
         font-size: 20px;
         border: 2px solid black;
         width: 90%;
-        margin: 20dvh auto;
-        padding: 10px;
-
+        margin: 5dvh auto;
+        padding: 2px;
     }
 
     th {

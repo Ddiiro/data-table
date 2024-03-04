@@ -1,6 +1,10 @@
 <template>
     <div>
-        <p>Hello</p>
+        <input 
+            class="search"
+            type="text" 
+            placeholder="search Employee Name"
+        >
     </div>
   </template>
   
@@ -28,5 +32,10 @@
   </script>
   
   <style>
-
+    .search {
+        padding: 10px;
+        border-radius: 20px;
+        width: 20dvh;
+        border: 1px solid gray;
+    }
   </style>
